@@ -1,0 +1,11 @@
+{
+  "name": "projet-cloud-web",
+  "version": "1.0.0",
+  "description": "Serveur web sans accès à la base, données poussées par VM3",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Serigne Saliou Gaye",
+  "license": "ISC"
+}
