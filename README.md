@@ -1,5 +1,4 @@
 # Projet-Cloud-Reseau
-Voici un **README professionnel mais adapté à un projet académique** que tu peux mettre dans ton dépôt GitHub. Il décrit ton application web Node.js et rappelle l’architecture de ton projet (Firewall + DMZ + Base de données).
 
 ---
 
